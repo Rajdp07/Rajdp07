@@ -1,5 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/soumyadeep007/soumyadeep007/master/Hi.gif" width="40px" />,I am Rajdeep, Welcome to my GitHub 👨‍💻❤️</h1>
-
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />,I am Rajdeep, Welcome to my GitHub 👨‍💻❤️</h1>
 ## I'm a Software Developer,Teacher, Content Writer!!
 
 - 🔭 I’m currently working on a JAVA Full Stack Project!
