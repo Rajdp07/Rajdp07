@@ -6,10 +6,10 @@
 <a href="https://www.linkedin.com/in/rajdeep-majumder-845266178/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@rajdeepmajumder925"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>&nbsp;&nbsp;
 
-- 🔭 I’m currently working on a JAVA Full Stack Project!
-- 🌱 I’m currently learning JAVA and its Applications 🤣
+- 🔭 I’m currently working at Tata Consultancy Services!
+- 🌱 I’m currently learning JAVA Backend and Devops.
 - 👯 I’m looking to collaborate with other Software Developers
-- 🥅 2020 Goals: To learn more skills and finally get that job..
+- 🥅 2022 Goals: To learn more Dev Skills thriving in Software Industry..
 - ⚡ Fun fact: I love to learn new stuffs and play Games!!
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
@@ -32,19 +32,36 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
 
-#### Backend/Server:
+#### Backend/Server/Database:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-boot.png" height="30"></code>
 <img align="left" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="30"></code>
+ <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/cas.png" height="30"></code>
+ 
+ #### •Micro-Services:
+ <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="30"></code>
+ <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/kafka.png" height="30"></code>
+ <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/eureka.png" height="30"></code>
+ 
 
-### Others:
+### Devops/Cloud:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/maven.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/docker.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/ku.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/jenkins.jpg" height="30"></code>
+ 
+
+## Achivements 🏆🏅🎉
+<h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rajdp07&theme=onedark&column=7&hide=PullRequest"/>
+  </a>
 
 
 <h1 align="center">Thanks for your Time, Have a Nice Day!! <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" /></h1>
