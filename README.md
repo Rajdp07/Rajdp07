@@ -56,6 +56,17 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/ku.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/jenkins.jpg" height="30"></code>
  
+ 
+## Work Experience :computer_mouse: :desktop_computer: :keyboard:
+
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+| Assistant System Engineer | [@Tata Consultancy Services](https://www.tcs.com/) | May 2021 - Present |
+| Student Mentor | [@GirlScript Foundation](https://www.girlscript.tech/home) | September 2020 - May 2021 |
+| Java Developer Trainee | [@Epam Systems](https://www.epam.com/) | January 2020 - Sep 2020 |
+| Cricket Analyst Intern | [@Rooter](https://web.rooter.gg/) | Nov 2019 - May 2020 |
+| Technical Blogger | [@Edureka](https://www.edureka.co/) | July 2019 - December 2020 |
+ 
 
 ## Achivements 🏆🏅🎉
 <h4>🏆 Github Profile Trophy</h4>
