@@ -64,4 +64,9 @@
   </a>
 
 
+#### Overall profile stats
+![](https://github-readme-stats.vercel.app/api?username=Rajdp07&count_private=true&theme=merko&show_icons=true&hide=prs)
+
+<img src="https://gpvc.arturio.dev/Rajdp07" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rajdp07?style=social"/> 
+
 <h1 align="center">Thanks for your Time, Have a Nice Day!! <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" /></h1>
